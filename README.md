@@ -74,14 +74,14 @@
 
 <br>
 <li>
-<a href="discord:Lnwwaveza007" target="_blank">
+<a href="https://discord.com/users/235378970047021056" target="_blank">
 <img src="https://img.shields.io/badge/Discord:  Lnwwaveza007-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" t=discord style="margin-bottom: 5px;" />
 </a>
 </li>
   
 <br>
 <li>
-<a href="facebook:จรณะ สุขโรจน์" target="_blank">
+<a href="https://www.facebook.com/minop951/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook:  จรณะ สุขโรจน์-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" t=facebook style="margin-bottom: 5px;" />
 </a>
 </li>
